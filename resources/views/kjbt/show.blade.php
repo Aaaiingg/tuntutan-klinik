@@ -32,7 +32,7 @@
                 <thead>
                     <tr class="bg-gray-100 dark:bg-gray-700 text-left text-gray-600 dark:text-gray-200">
                         <th class="p-2">ID</th>
-                        <th class="p-2">No Siri</th>
+                        <th class="p-2">No. Siri</th>
                         <th class="p-2">Nama Staff</th>
                         <th class="p-2">Kelayakan</th>
                         <th class="p-2">Jumlah Tuntutan</th>
